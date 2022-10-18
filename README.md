@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Davelopa</h1>
+<h2 align="center">Digital Artisan | Creative Developer</h2>
 <h3 align="center">Privacy, decentralized web and self-sovereignty advocate</h3>
 
-<p align="left"> <a href="https://twitter.com/davel0pa" target="blank"><img src="https://img.shields.io/twitter/follow/davel0pa?logo=twitter&style=for-the-badge" alt="davel0pa" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio.**
+<p align="left"> <a href="https://twitter.com/davel0pa" target="blank"></a> </p>
+<img src="https://img.shields.io/twitter/follow/davel0pa?logo=twitter&style=for-the-badge" alt="davel0pa" />
 
-- 🌱 I’m currently learning **front-end, dweb and Blender.**
+- 🔭 I’m currently working on **XR, decentralized domains and founding a startup.**
 
-- 👯 I’m looking to collaborate on **Handshake, dweb and privacy solutions.**
+- 🌱 I’m currently learning **AR, Front-end and networking.**
+
+- 👯 I’m looking to collaborate on **XR, Handshake, dweb and privacy solutions.**
 
 - 🤝 I’m looking for help with **networking.**
 
