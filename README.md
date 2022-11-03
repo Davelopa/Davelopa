@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/davel0pa" target="blank"></a> </p>
 <img src="https://img.shields.io/twitter/follow/davel0pa?logo=twitter&style=for-the-badge" alt="davel0pa" />
 
-- 🔭 I’m currently working on **XR, decentralized domains and founding a startup.**
+- 🔭 I’m currently working on **XR, decentralized domains.**
 
 - 🌱 I’m currently learning **AR, Front-end and networking.**
 
